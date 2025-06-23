@@ -1,6 +1,6 @@
-# ⚡ Electric Vehicle Population Data Analysis 
+# ⚡ Electric Vehicle Population 2024-25 Data Analysis 
 
-This project presents a complete data analysis Electric Vehicle Population dataset. The goal is to uncover insights about EV adoption trends and build a machine learning model to predict the type of electric vehicles based on vehicle and location features.
+This project presents a complete data analysis Electric Vehicle Population 2024-25 dataset. The goal is to uncover insights about EV adoption trends and build a machine learning model to predict the type of electric vehicles based on vehicle and location features.
 
 ![Image](https://github.com/user-attachments/assets/ad49c50b-9f03-446a-aacd-821479749551)
 
